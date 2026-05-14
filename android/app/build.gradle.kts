@@ -42,3 +42,8 @@ android {
 flutter {
     source = "../.."
 }
+
+
+dependencies {
+    implementation("androidx.fragment:fragment-ktx:1.6.2")
+}
